@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EdoardoAgus
+- 👀 I’m interested in learning new languages and frameworks and people!
+- 🌱 I’m currently learning the basics of web developing.
+- 📫 How to reach me: agusedoardo@gmail.com
